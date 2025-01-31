@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Mine",
-      "address": "https://10.0.0.15"
+      "address": "http://10.0.0.15"
     }
   ]
 }

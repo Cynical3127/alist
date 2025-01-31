@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "Mine",
+      "address": "https://10.0.0.15"
+    }
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}
